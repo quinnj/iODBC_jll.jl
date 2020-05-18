@@ -1,8 +1,8 @@
 [[iODBC_debug]]
 arch = "x86_64"
-git-tree-sha1 = "020bd2c53e17a8599fde45d658b6e94b85e4640a"
+git-tree-sha1 = "74688d5b0b6db9557a9c60a0d1968aa618cf7245"
 os = "macos"
 
     [[iODBC_debug.download]]
-    sha256 = "96b92f440288b52f88c2420f2a23daa4122d2541a938b0ed5b0f66f7040b84c0"
-    url = "https://github.com/quinnj/iODBC_jll.jl/releases/download/iODBC_debug-v3.52.13+0/iODBC_debug.v3.52.13.x86_64-apple-darwin14.tar.gz"
+    sha256 = "994e64dd720bd6febab83a68b2d64ef22524387d24b39f65ba35e2a28e6a48c7"
+    url = "https://github.com/quinnj/iODBC_jll.jl/releases/download/iODBC_debug-v3.52.14+0/iODBC_debug.v3.52.14.x86_64-apple-darwin14.tar.gz"

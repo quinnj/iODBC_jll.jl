@@ -1,6 +1,6 @@
 name = "iODBC_debug_jll"
 uuid = "f7d3fe37-dbaf-5e02-82a8-8fd103cbf401"
-version = "3.52.13+0"
+version = "3.52.14+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
